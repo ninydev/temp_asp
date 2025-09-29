@@ -21,8 +21,8 @@
     "https": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": true,
-      "applicationUrl": "https://pv32asp.northeurope.cloudapp.azure.com:443",
+      "launchBrowser": false,
+      "applicationUrl": "https://pv32asp.northeurope.cloudapp.azure.com:5001;http://pv32asp.northeurope.cloudapp.azure.com:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ASPNETCORE_Kestrel__Certificates__Default__Path": "/etc/letsencrypt/live/pv32asp.northeurope.cloudapp.azure.com/fullchain.pem",
